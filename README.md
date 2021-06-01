@@ -2,6 +2,7 @@
 
 ## Neopixels
 - [Adafruit NeoPixel Überguide](https://learn.adafruit.com/adafruit-neopixel-uberguide)
+- [WS2812B Datasheet](https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
 
 ## Arduino
 - [Adafruit NeoPixel Arduino Libraries](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation)
@@ -16,6 +17,8 @@
 - [driving WS2812](https://github.com/jazzycamel/ws28128-rpi)
 - [driving WS2812](https://github.com/jgarff/rpi_ws281x)
 - [Circuit Python Docs](https://circuitpython.readthedocs.io/projects/neopixel/en/latest/)
+- [Logic Level Shifting](https://learn.adafruit.com/neopixel-levelshifter)
+- [SN74AHCT125 Datasheet](https://cdn-shop.adafruit.com/product-files/1787/1787AHC125.pdf)
 
 Install Blinka (Circuit Python)
 ```
